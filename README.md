@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait1.gif" width="220" alt="Uzma Noorulain Shaikh">
+<img src="assets/portrait.gif" width="220" alt="Uzma Noorulain Shaikh">
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=D14BF8&center=true&vCenter=true&width=640&lines=Uzma+Noorulain+Shaikh;MERN+Stack+Developer;React+%2B+Node+%2B+Express+%2B+MongoDB" alt="Uzma Noorulain Shaikh - MERN Stack Developer">
